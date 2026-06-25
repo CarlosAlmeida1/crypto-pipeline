@@ -28,9 +28,9 @@ Construir um pipeline realista para:
 - Normalizacao de moeda para USD.
 - Conversao de timestamp para formato legivel/ISO.
 - Classificacao de variacao 24h:
-	- alta: > 2%
-	- queda: < -2%
-	- estavel: entre -2% e 2%
+  - alta: > 2%
+  - queda: < -2%
+  - estavel: entre -2% e 2%
 - Marcacao de alta liquidez: volume > 1 bilhao USD.
 - Remocao de duplicatas por (coin_id, timestamp).
 
@@ -111,21 +111,21 @@ Arquivo .env (local, nao versionado):
 ## Fluxo End-to-End
 
 1. Lambda grava Bronze no S3 em:
-	 - bronze/YYYY/MM/DD/coingecko_markets.json
-	 - bronze/YYYY/MM/DD/coingecko_trending.json
-	 - bronze/YYYY/MM/DD/fear_greed.json
+   - bronze/YYYY/MM/DD/coingecko_markets.json
+   - bronze/YYYY/MM/DD/coingecko_trending.json
+   - bronze/YYYY/MM/DD/fear_greed.json
 
 2. DAG executa:
-	 - extract
-	 - sync_bronze_from_s3
-	 - transform_bronze_to_silver
-	 - transform_silver_to_gold
-	 - sync_silver_gold_to_s3
-	 - check_data_quality
+   - extract
+   - sync_bronze_from_s3
+   - transform_bronze_to_silver
+   - transform_silver_to_gold
+   - sync_silver_gold_to_s3
+   - check_data_quality
 
 3. Airflow salva localmente em data/ e publica no S3:
-	 - silver/YYYY/MM/DD/*.json
-	 - gold/YYYY/MM/DD/*.json
+   - silver/YYYY/MM/DD/\*.json
+   - gold/YYYY/MM/DD/\*.json
 
 ## Execucao Manual (Teste Rapido)
 
@@ -153,7 +153,7 @@ docker compose exec -T airflow-scheduler python /opt/airflow/transforms/s3_sync.
 
 - Erro de DAG import (Airflow 3): usar schedule em vez de schedule_interval.
 - Erro de path no Git Bash com docker compose exec:
-	- usar MSYS_NO_PATHCONV=1 antes do comando.
+  - usar MSYS_NO_PATHCONV=1 antes do comando.
 - Erro Bronze ausente no Silver:
-	- verificar se Lambda escreveu no prefixo bronze da data da execucao.
-	- rodar pull com a data correta.
+  - verificar se Lambda escreveu no prefixo bronze da data da execucao.
+  - rodar pull com a data correta.
