@@ -1,0 +1,241 @@
+{
+  "date": "2026-06-25",
+  "fear_greed_index": 12,
+  "condicao_mercado": "medo_extremo",
+  "moedas_em_alta": [
+    {
+      "coin_id": "audiera",
+      "symbol": "BEAT",
+      "name": "Audiera",
+      "variacao_pct_24h": 22.4228
+    },
+    {
+      "coin_id": "lab",
+      "symbol": "LAB",
+      "name": "LAB",
+      "variacao_pct_24h": 12.01742
+    },
+    {
+      "coin_id": "beldex",
+      "symbol": "BDX",
+      "name": "Beldex",
+      "variacao_pct_24h": 8.97265
+    },
+    {
+      "coin_id": "venice-token",
+      "symbol": "VVV",
+      "name": "Venice Token",
+      "variacao_pct_24h": 4.72202
+    },
+    {
+      "coin_id": "stable-2",
+      "symbol": "STABLE",
+      "name": "\u200b\u200bStable",
+      "variacao_pct_24h": 4.13983
+    },
+    {
+      "coin_id": "aave",
+      "symbol": "AAVE",
+      "name": "Aave",
+      "variacao_pct_24h": 3.65107
+    },
+    {
+      "coin_id": "dexe",
+      "symbol": "DEXE",
+      "name": "DeXe",
+      "variacao_pct_24h": 2.75484
+    },
+    {
+      "coin_id": "adi-token",
+      "symbol": "ADI",
+      "name": "ADI",
+      "variacao_pct_24h": 2.75305
+    },
+    {
+      "coin_id": "hash-2",
+      "symbol": "HASH",
+      "name": "Provenance Blockchain",
+      "variacao_pct_24h": 2.41001
+    },
+    {
+      "coin_id": "bianrensheng",
+      "symbol": "\u5e01\u5b89\u4eba\u751f",
+      "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+      "variacao_pct_24h": 2.30626
+    },
+    {
+      "coin_id": "hyperliquid",
+      "symbol": "HYPE",
+      "name": "Hyperliquid",
+      "variacao_pct_24h": 1.96398
+    },
+    {
+      "coin_id": "bitcoin-cash",
+      "symbol": "BCH",
+      "name": "Bitcoin Cash",
+      "variacao_pct_24h": 1.75225
+    },
+    {
+      "coin_id": "jupiter-exchange-solana",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "variacao_pct_24h": 1.66359
+    },
+    {
+      "coin_id": "world-liberty-financial",
+      "symbol": "WLFI",
+      "name": "World Liberty Financial",
+      "variacao_pct_24h": 1.53992
+    },
+    {
+      "coin_id": "aster-2",
+      "symbol": "ASTER",
+      "name": "Aster",
+      "variacao_pct_24h": 0.93577
+    },
+    {
+      "coin_id": "ethereum-classic",
+      "symbol": "ETC",
+      "name": "Ethereum Classic",
+      "variacao_pct_24h": 0.83597
+    },
+    {
+      "coin_id": "figure-heloc",
+      "symbol": "FIGR_HELOC",
+      "name": "Figure Heloc",
+      "variacao_pct_24h": 0.6041
+    },
+    {
+      "coin_id": "okb",
+      "symbol": "OKB",
+      "name": "OKB",
+      "variacao_pct_24h": 0.51392
+    },
+    {
+      "coin_id": "zcash",
+      "symbol": "ZEC",
+      "name": "Zcash",
+      "variacao_pct_24h": 0.50973
+    },
+    {
+      "coin_id": "litecoin",
+      "symbol": "LTC",
+      "name": "Litecoin",
+      "variacao_pct_24h": 0.48193
+    },
+    {
+      "coin_id": "solana",
+      "symbol": "SOL",
+      "name": "Solana",
+      "variacao_pct_24h": 0.40532
+    },
+    {
+      "coin_id": "pi-network",
+      "symbol": "PI",
+      "name": "Pi Network",
+      "variacao_pct_24h": 0.27092
+    },
+    {
+      "coin_id": "pax-gold",
+      "symbol": "PAXG",
+      "name": "PAX Gold",
+      "variacao_pct_24h": 0.24844
+    },
+    {
+      "coin_id": "ondo-finance",
+      "symbol": "ONDO",
+      "name": "Ondo",
+      "variacao_pct_24h": 0.21859
+    },
+    {
+      "coin_id": "tether-gold",
+      "symbol": "XAUT",
+      "name": "Tether Gold",
+      "variacao_pct_24h": 0.10122
+    },
+    {
+      "coin_id": "spiko-amundi-overnight-swap-fund-eur",
+      "symbol": "EURSAFO",
+      "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+      "variacao_pct_24h": 0.09573
+    },
+    {
+      "coin_id": "eutbl",
+      "symbol": "EUTBL",
+      "name": "Spiko EU T-Bills Money Market Fund",
+      "variacao_pct_24h": 0.07682
+    },
+    {
+      "coin_id": "leo-token",
+      "symbol": "LEO",
+      "name": "LEO Token",
+      "variacao_pct_24h": 0.04626
+    },
+    {
+      "coin_id": "gho",
+      "symbol": "GHO",
+      "name": "GHO",
+      "variacao_pct_24h": 0.02465
+    },
+    {
+      "coin_id": "janus-henderson-anemoy-aaa-clo-fund",
+      "symbol": "JAAA",
+      "name": "Janus Henderson Anemoy AAA CLO Fund",
+      "variacao_pct_24h": 0.02455
+    },
+    {
+      "coin_id": "united-stables",
+      "symbol": "U",
+      "name": "United Stables",
+      "variacao_pct_24h": 0.01973
+    },
+    {
+      "coin_id": "ylds",
+      "symbol": "YLDS",
+      "name": "YLDS",
+      "variacao_pct_24h": 0.01245
+    },
+    {
+      "coin_id": "usdtb",
+      "symbol": "USDTB",
+      "name": "USDtb",
+      "variacao_pct_24h": 0.01103
+    },
+    {
+      "coin_id": "superstate-short-duration-us-government-securities-fund-ustb",
+      "symbol": "USTB",
+      "name": "Invesco Short Duration US Government Securities Fund",
+      "variacao_pct_24h": 0.00897
+    },
+    {
+      "coin_id": "janus-henderson-anemoy-treasury-fund",
+      "symbol": "JTRSY",
+      "name": "Janus Henderson Anemoy Treasury Fund",
+      "variacao_pct_24h": 0.00849
+    },
+    {
+      "coin_id": "tether",
+      "symbol": "USDT",
+      "name": "Tether",
+      "variacao_pct_24h": 0.00437
+    },
+    {
+      "coin_id": "ethena-usde",
+      "symbol": "USDE",
+      "name": "Ethena USDe",
+      "variacao_pct_24h": 0.00429
+    },
+    {
+      "coin_id": "usds",
+      "symbol": "USDS",
+      "name": "USDS",
+      "variacao_pct_24h": 0.00169
+    },
+    {
+      "coin_id": "paypal-usd",
+      "symbol": "PYUSD",
+      "name": "PayPal USD",
+      "variacao_pct_24h": 0.00156
+    }
+  ]
+}

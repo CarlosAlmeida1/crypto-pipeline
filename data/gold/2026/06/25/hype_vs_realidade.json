@@ -1,0 +1,152 @@
+[
+  {
+    "date": "2026-06-25",
+    "coin_id": "rain",
+    "name": "Rain",
+    "symbol": "RAIN",
+    "trending_rank": 1,
+    "rank_variacao_real": 58,
+    "variacao_pct_24h": -0.44317,
+    "hype_vs_realidade_gap": 57
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "hyperliquid",
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "trending_rank": 2,
+    "rank_variacao_real": 11,
+    "variacao_pct_24h": 1.96398,
+    "hype_vs_realidade_gap": 9
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "trending_rank": 3,
+    "rank_variacao_real": 68,
+    "variacao_pct_24h": -1.52309,
+    "hype_vs_realidade_gap": 65
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "pudgy-penguins",
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "trending_rank": 4,
+    "rank_variacao_real": null,
+    "variacao_pct_24h": null,
+    "hype_vs_realidade_gap": null
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "solana",
+    "name": "Solana",
+    "symbol": "SOL",
+    "trending_rank": 5,
+    "rank_variacao_real": 21,
+    "variacao_pct_24h": 0.40532,
+    "hype_vs_realidade_gap": 16
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "venice-token",
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "trending_rank": 6,
+    "rank_variacao_real": 4,
+    "variacao_pct_24h": 4.72202,
+    "hype_vs_realidade_gap": -2
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "aave",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "trending_rank": 7,
+    "rank_variacao_real": 6,
+    "variacao_pct_24h": 3.65107,
+    "hype_vs_realidade_gap": -1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "plasma",
+    "name": "Plasma",
+    "symbol": "XPL",
+    "trending_rank": 8,
+    "rank_variacao_real": null,
+    "variacao_pct_24h": null,
+    "hype_vs_realidade_gap": null
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "aerodrome-finance",
+    "name": "Aerodrome Finance",
+    "symbol": "AERO",
+    "trending_rank": 9,
+    "rank_variacao_real": null,
+    "variacao_pct_24h": null,
+    "hype_vs_realidade_gap": null
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "near",
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "trending_rank": 10,
+    "rank_variacao_real": 96,
+    "variacao_pct_24h": -5.64723,
+    "hype_vs_realidade_gap": 86
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bittensor",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "trending_rank": 11,
+    "rank_variacao_real": 85,
+    "variacao_pct_24h": -2.73237,
+    "hype_vs_realidade_gap": 74
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "arcium",
+    "name": "Arcium",
+    "symbol": "ARX",
+    "trending_rank": 12,
+    "rank_variacao_real": null,
+    "variacao_pct_24h": null,
+    "hype_vs_realidade_gap": null
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "sui",
+    "name": "Sui",
+    "symbol": "SUI",
+    "trending_rank": 13,
+    "rank_variacao_real": 56,
+    "variacao_pct_24h": -0.23168,
+    "hype_vs_realidade_gap": 43
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "collector-crypt",
+    "name": "Collector Crypt",
+    "symbol": "CARDS",
+    "trending_rank": 14,
+    "rank_variacao_real": null,
+    "variacao_pct_24h": null,
+    "hype_vs_realidade_gap": null
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ondo-finance",
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "trending_rank": 15,
+    "rank_variacao_real": 24,
+    "variacao_pct_24h": 0.21859,
+    "hype_vs_realidade_gap": 9
+  }
+]

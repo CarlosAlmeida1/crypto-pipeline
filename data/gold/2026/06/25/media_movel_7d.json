@@ -1,0 +1,902 @@
+[
+  {
+    "date": "2026-06-25",
+    "coin_id": "aave",
+    "symbol": "AAVE",
+    "name": "Aave",
+    "price_usd_latest": 82.85,
+    "media_movel_7d_usd": 82.85,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "adi-token",
+    "symbol": "ADI",
+    "name": "ADI",
+    "price_usd_latest": 4.5,
+    "media_movel_7d_usd": 4.5,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "algorand",
+    "symbol": "ALGO",
+    "name": "Algorand",
+    "price_usd_latest": 0.085169,
+    "media_movel_7d_usd": 0.085169,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "aster-2",
+    "symbol": "ASTER",
+    "name": "Aster",
+    "price_usd_latest": 0.621543,
+    "media_movel_7d_usd": 0.621543,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "audiera",
+    "symbol": "BEAT",
+    "name": "Audiera",
+    "price_usd_latest": 2.09,
+    "media_movel_7d_usd": 2.09,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "avalanche-2",
+    "symbol": "AVAX",
+    "name": "Avalanche",
+    "price_usd_latest": 6.25,
+    "media_movel_7d_usd": 6.25,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "beldex",
+    "symbol": "BDX",
+    "name": "Beldex",
+    "price_usd_latest": 0.089381,
+    "media_movel_7d_usd": 0.089381,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bfusd",
+    "symbol": "BFUSD",
+    "name": "BFUSD",
+    "price_usd_latest": 0.99823,
+    "media_movel_7d_usd": 0.99823,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bianrensheng",
+    "symbol": "\u5e01\u5b89\u4eba\u751f",
+    "name": "\u5e01\u5b89\u4eba\u751f (BinanceLife)",
+    "price_usd_latest": 0.711918,
+    "media_movel_7d_usd": 0.711918,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "binancecoin",
+    "symbol": "BNB",
+    "name": "BNB",
+    "price_usd_latest": 561.57,
+    "media_movel_7d_usd": 561.57,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bitcoin",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "price_usd_latest": 60016.0,
+    "media_movel_7d_usd": 60016.0,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bitcoin-cash",
+    "symbol": "BCH",
+    "name": "Bitcoin Cash",
+    "price_usd_latest": 192.96,
+    "media_movel_7d_usd": 192.96,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bitget-token",
+    "symbol": "BGB",
+    "name": "Bitget Token",
+    "price_usd_latest": 1.64,
+    "media_movel_7d_usd": 1.64,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "bittensor",
+    "symbol": "TAO",
+    "name": "Bittensor",
+    "price_usd_latest": 213.48,
+    "media_movel_7d_usd": 213.48,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "blackrock-usd-institutional-digital-liquidity-fund",
+    "symbol": "BUIDL",
+    "name": "BlackRock USD Institutional Digital Liquidity Fund",
+    "price_usd_latest": 1.0,
+    "media_movel_7d_usd": 1.0,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "blockchain-capital",
+    "symbol": "BCAP",
+    "name": "Blockchain Capital",
+    "price_usd_latest": 107.03,
+    "media_movel_7d_usd": 107.03,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "canton-network",
+    "symbol": "CC",
+    "name": "Canton",
+    "price_usd_latest": 0.149887,
+    "media_movel_7d_usd": 0.149887,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "cardano",
+    "symbol": "ADA",
+    "name": "Cardano",
+    "price_usd_latest": 0.144042,
+    "media_movel_7d_usd": 0.144042,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "chainlink",
+    "symbol": "LINK",
+    "name": "Chainlink",
+    "price_usd_latest": 7.28,
+    "media_movel_7d_usd": 7.28,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "cosmos",
+    "symbol": "ATOM",
+    "name": "Cosmos Hub",
+    "price_usd_latest": 1.61,
+    "media_movel_7d_usd": 1.61,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "crypto-com-chain",
+    "symbol": "CRO",
+    "name": "Cronos",
+    "price_usd_latest": 0.054905,
+    "media_movel_7d_usd": 0.054905,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "dai",
+    "symbol": "DAI",
+    "name": "Dai",
+    "price_usd_latest": 0.999623,
+    "media_movel_7d_usd": 0.999623,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "dexe",
+    "symbol": "DEXE",
+    "name": "DeXe",
+    "price_usd_latest": 22.9,
+    "media_movel_7d_usd": 22.9,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "dogecoin",
+    "symbol": "DOGE",
+    "name": "Dogecoin",
+    "price_usd_latest": 0.075079,
+    "media_movel_7d_usd": 0.075079,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ethena",
+    "symbol": "ENA",
+    "name": "Ethena",
+    "price_usd_latest": 0.082719,
+    "media_movel_7d_usd": 0.082719,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ethena-usde",
+    "symbol": "USDE",
+    "name": "Ethena USDe",
+    "price_usd_latest": 0.998274,
+    "media_movel_7d_usd": 0.998274,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ethereum",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "price_usd_latest": 1574.45,
+    "media_movel_7d_usd": 1574.45,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ethereum-classic",
+    "symbol": "ETC",
+    "name": "Ethereum Classic",
+    "price_usd_latest": 7.03,
+    "media_movel_7d_usd": 7.03,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "eutbl",
+    "symbol": "EUTBL",
+    "name": "Spiko EU T-Bills Money Market Fund",
+    "price_usd_latest": 1.2,
+    "media_movel_7d_usd": 1.2,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "falcon-finance",
+    "symbol": "USDF",
+    "name": "Falcon USD",
+    "price_usd_latest": 0.993447,
+    "media_movel_7d_usd": 0.993447,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "figure-heloc",
+    "symbol": "FIGR_HELOC",
+    "name": "Figure Heloc",
+    "price_usd_latest": 1.033,
+    "media_movel_7d_usd": 1.033,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "filecoin",
+    "symbol": "FIL",
+    "name": "Filecoin",
+    "price_usd_latest": 0.739478,
+    "media_movel_7d_usd": 0.739478,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "flare-networks",
+    "symbol": "FLR",
+    "name": "Flare",
+    "price_usd_latest": 0.00681747,
+    "media_movel_7d_usd": 0.00681747,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "gatechain-token",
+    "symbol": "GT",
+    "name": "Gate",
+    "price_usd_latest": 6.49,
+    "media_movel_7d_usd": 6.49,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "gho",
+    "symbol": "GHO",
+    "name": "GHO",
+    "price_usd_latest": 0.998024,
+    "media_movel_7d_usd": 0.998024,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "global-dollar",
+    "symbol": "USDG",
+    "name": "Global Dollar",
+    "price_usd_latest": 0.999768,
+    "media_movel_7d_usd": 0.999768,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "hash-2",
+    "symbol": "HASH",
+    "name": "Provenance Blockchain",
+    "price_usd_latest": 0.0093249,
+    "media_movel_7d_usd": 0.0093249,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "hashnote-usyc",
+    "symbol": "USYC",
+    "name": "Circle USYC",
+    "price_usd_latest": 1.13,
+    "media_movel_7d_usd": 1.13,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "hedera-hashgraph",
+    "symbol": "HBAR",
+    "name": "Hedera",
+    "price_usd_latest": 0.073553,
+    "media_movel_7d_usd": 0.073553,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "htx-dao",
+    "symbol": "HTX",
+    "name": "HTX DAO",
+    "price_usd_latest": 1.68e-06,
+    "media_movel_7d_usd": 1.68e-06,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "hyperliquid",
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "price_usd_latest": 65.14,
+    "media_movel_7d_usd": 65.14,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "internet-computer",
+    "symbol": "ICP",
+    "name": "Internet Computer",
+    "price_usd_latest": 2.18,
+    "media_movel_7d_usd": 2.18,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "janus-henderson-anemoy-aaa-clo-fund",
+    "symbol": "JAAA",
+    "name": "Janus Henderson Anemoy AAA CLO Fund",
+    "price_usd_latest": 1.039,
+    "media_movel_7d_usd": 1.039,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "janus-henderson-anemoy-treasury-fund",
+    "symbol": "JTRSY",
+    "name": "Janus Henderson Anemoy Treasury Fund",
+    "price_usd_latest": 1.11,
+    "media_movel_7d_usd": 1.11,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "jupiter-exchange-solana",
+    "symbol": "JUP",
+    "name": "Jupiter",
+    "price_usd_latest": 0.221843,
+    "media_movel_7d_usd": 0.221843,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "just",
+    "symbol": "JST",
+    "name": "JUST",
+    "price_usd_latest": 0.081263,
+    "media_movel_7d_usd": 0.081263,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "kaspa",
+    "symbol": "KAS",
+    "name": "Kaspa",
+    "price_usd_latest": 0.02764625,
+    "media_movel_7d_usd": 0.02764625,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "kucoin-shares",
+    "symbol": "KCS",
+    "name": "KuCoin",
+    "price_usd_latest": 6.8,
+    "media_movel_7d_usd": 6.8,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "lab",
+    "symbol": "LAB",
+    "name": "LAB",
+    "price_usd_latest": 18.14,
+    "media_movel_7d_usd": 18.14,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "leo-token",
+    "symbol": "LEO",
+    "name": "LEO Token",
+    "price_usd_latest": 9.42,
+    "media_movel_7d_usd": 9.42,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "litecoin",
+    "symbol": "LTC",
+    "name": "Litecoin",
+    "price_usd_latest": 41.1,
+    "media_movel_7d_usd": 41.1,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "mantle",
+    "symbol": "MNT",
+    "name": "Mantle",
+    "price_usd_latest": 0.445535,
+    "media_movel_7d_usd": 0.445535,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "memecore",
+    "symbol": "M",
+    "name": "MemeCore",
+    "price_usd_latest": 1.003,
+    "media_movel_7d_usd": 1.003,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "midnight-3",
+    "symbol": "NIGHT",
+    "name": "Midnight",
+    "price_usd_latest": 0.03108685,
+    "media_movel_7d_usd": 0.03108685,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "monero",
+    "symbol": "XMR",
+    "name": "Monero",
+    "price_usd_latest": 309.84,
+    "media_movel_7d_usd": 309.84,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "morpho",
+    "symbol": "MORPHO",
+    "name": "Morpho",
+    "price_usd_latest": 1.7,
+    "media_movel_7d_usd": 1.7,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "near",
+    "symbol": "NEAR",
+    "name": "NEAR Protocol",
+    "price_usd_latest": 1.85,
+    "media_movel_7d_usd": 1.85,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "nexo",
+    "symbol": "NEXO",
+    "name": "NEXO",
+    "price_usd_latest": 0.717943,
+    "media_movel_7d_usd": 0.717943,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "okb",
+    "symbol": "OKB",
+    "name": "OKB",
+    "price_usd_latest": 75.71,
+    "media_movel_7d_usd": 75.71,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ondo-finance",
+    "symbol": "ONDO",
+    "name": "Ondo",
+    "price_usd_latest": 0.314111,
+    "media_movel_7d_usd": 0.314111,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ondo-us-dollar-yield",
+    "symbol": "USDY",
+    "name": "Ondo US Dollar Yield",
+    "price_usd_latest": 1.13,
+    "media_movel_7d_usd": 1.13,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "pax-gold",
+    "symbol": "PAXG",
+    "name": "PAX Gold",
+    "price_usd_latest": 4018.36,
+    "media_movel_7d_usd": 4018.36,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "paypal-usd",
+    "symbol": "PYUSD",
+    "name": "PayPal USD",
+    "price_usd_latest": 0.999768,
+    "media_movel_7d_usd": 0.999768,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "pepe",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "price_usd_latest": 2.37e-06,
+    "media_movel_7d_usd": 2.37e-06,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "pi-network",
+    "symbol": "PI",
+    "name": "Pi Network",
+    "price_usd_latest": 0.126165,
+    "media_movel_7d_usd": 0.126165,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "polkadot",
+    "symbol": "DOT",
+    "name": "Polkadot",
+    "price_usd_latest": 0.847406,
+    "media_movel_7d_usd": 0.847406,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "polygon-ecosystem-token",
+    "symbol": "POL",
+    "name": "POL (ex-MATIC)",
+    "price_usd_latest": 0.072147,
+    "media_movel_7d_usd": 0.072147,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "quant-network",
+    "symbol": "QNT",
+    "name": "Quant",
+    "price_usd_latest": 64.83,
+    "media_movel_7d_usd": 64.83,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "rain",
+    "symbol": "RAIN",
+    "name": "Rain",
+    "price_usd_latest": 0.01578591,
+    "media_movel_7d_usd": 0.01578591,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "render-token",
+    "symbol": "RENDER",
+    "name": "Render",
+    "price_usd_latest": 1.53,
+    "media_movel_7d_usd": 1.53,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ripple",
+    "symbol": "XRP",
+    "name": "XRP",
+    "price_usd_latest": 1.046,
+    "media_movel_7d_usd": 1.046,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ripple-usd",
+    "symbol": "RLUSD",
+    "name": "Ripple USD",
+    "price_usd_latest": 0.999779,
+    "media_movel_7d_usd": 0.999779,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "shiba-inu",
+    "symbol": "SHIB",
+    "name": "Shiba Inu",
+    "price_usd_latest": 4.25e-06,
+    "media_movel_7d_usd": 4.25e-06,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "sky",
+    "symbol": "SKY",
+    "name": "Sky",
+    "price_usd_latest": 0.051593,
+    "media_movel_7d_usd": 0.051593,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "solana",
+    "symbol": "SOL",
+    "name": "Solana",
+    "price_usd_latest": 68.23,
+    "media_movel_7d_usd": 68.23,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "spiko-amundi-overnight-swap-fund-eur",
+    "symbol": "EURSAFO",
+    "name": "Spiko Amundi Overnight Swap Fund (EUR)",
+    "price_usd_latest": 1.14,
+    "media_movel_7d_usd": 1.14,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "stable-2",
+    "symbol": "STABLE",
+    "name": "\u200b\u200bStable",
+    "price_usd_latest": 0.03649284,
+    "media_movel_7d_usd": 0.03649284,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "stellar",
+    "symbol": "XLM",
+    "name": "Stellar",
+    "price_usd_latest": 0.17916,
+    "media_movel_7d_usd": 0.17916,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "sui",
+    "symbol": "SUI",
+    "name": "Sui",
+    "price_usd_latest": 0.683777,
+    "media_movel_7d_usd": 0.683777,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "superstate-short-duration-us-government-securities-fund-ustb",
+    "symbol": "USTB",
+    "name": "Invesco Short Duration US Government Securities Fund",
+    "price_usd_latest": 11.13,
+    "media_movel_7d_usd": 11.13,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "tether",
+    "symbol": "USDT",
+    "name": "Tether",
+    "price_usd_latest": 0.99852,
+    "media_movel_7d_usd": 0.99852,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "tether-gold",
+    "symbol": "XAUT",
+    "name": "Tether Gold",
+    "price_usd_latest": 4013.53,
+    "media_movel_7d_usd": 4013.53,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "the-open-network",
+    "symbol": "GRAM",
+    "name": "Gram (prev. Toncoin)",
+    "price_usd_latest": 1.57,
+    "media_movel_7d_usd": 1.57,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "tron",
+    "symbol": "TRX",
+    "name": "TRON",
+    "price_usd_latest": 0.323744,
+    "media_movel_7d_usd": 0.323744,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "uniswap",
+    "symbol": "UNI",
+    "name": "Uniswap",
+    "price_usd_latest": 2.9,
+    "media_movel_7d_usd": 2.9,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "united-stables",
+    "symbol": "U",
+    "name": "United Stables",
+    "price_usd_latest": 0.999801,
+    "media_movel_7d_usd": 0.999801,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "usd-coin",
+    "symbol": "USDC",
+    "name": "USDC",
+    "price_usd_latest": 0.999681,
+    "media_movel_7d_usd": 0.999681,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "usd1-wlfi",
+    "symbol": "USD1",
+    "name": "USD1",
+    "price_usd_latest": 0.998818,
+    "media_movel_7d_usd": 0.998818,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "usdd",
+    "symbol": "USDD",
+    "name": "USDD",
+    "price_usd_latest": 0.998926,
+    "media_movel_7d_usd": 0.998926,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "usds",
+    "symbol": "USDS",
+    "name": "USDS",
+    "price_usd_latest": 0.999548,
+    "media_movel_7d_usd": 0.999548,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "usdtb",
+    "symbol": "USDTB",
+    "name": "USDtb",
+    "price_usd_latest": 0.999304,
+    "media_movel_7d_usd": 0.999304,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "usual-usd",
+    "symbol": "USD0",
+    "name": "Usual USD",
+    "price_usd_latest": 0.998672,
+    "media_movel_7d_usd": 0.998672,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "usx",
+    "symbol": "USX",
+    "name": "USX",
+    "price_usd_latest": 0.999457,
+    "media_movel_7d_usd": 0.999457,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "venice-token",
+    "symbol": "VVV",
+    "name": "Venice Token",
+    "price_usd_latest": 13.76,
+    "media_movel_7d_usd": 13.76,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "whitebit",
+    "symbol": "WBT",
+    "name": "WhiteBIT Coin",
+    "price_usd_latest": 48.63,
+    "media_movel_7d_usd": 48.63,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "world-liberty-financial",
+    "symbol": "WLFI",
+    "name": "World Liberty Financial",
+    "price_usd_latest": 0.058251,
+    "media_movel_7d_usd": 0.058251,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "worldcoin-wld",
+    "symbol": "WLD",
+    "name": "Worldcoin",
+    "price_usd_latest": 0.496235,
+    "media_movel_7d_usd": 0.496235,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "xdce-crowd-sale",
+    "symbol": "XDC",
+    "name": "XDC Network",
+    "price_usd_latest": 0.02820823,
+    "media_movel_7d_usd": 0.02820823,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "ylds",
+    "symbol": "YLDS",
+    "name": "YLDS",
+    "price_usd_latest": 0.999865,
+    "media_movel_7d_usd": 0.999865,
+    "observacoes": 1
+  },
+  {
+    "date": "2026-06-25",
+    "coin_id": "zcash",
+    "symbol": "ZEC",
+    "name": "Zcash",
+    "price_usd_latest": 418.75,
+    "media_movel_7d_usd": 418.75,
+    "observacoes": 1
+  }
+]

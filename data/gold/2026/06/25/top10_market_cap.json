@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2026-06-25",
+    "rank": 1,
+    "coin_id": "bitcoin",
+    "symbol": "BTC",
+    "name": "Bitcoin",
+    "market_cap_usd": 1203650949462.0,
+    "price_usd": 60016.0,
+    "variacao_pct_24h": -1.52309
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 2,
+    "coin_id": "ethereum",
+    "symbol": "ETH",
+    "name": "Ethereum",
+    "market_cap_usd": 190085534989.0,
+    "price_usd": 1574.45,
+    "variacao_pct_24h": -2.72176
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 3,
+    "coin_id": "tether",
+    "symbol": "USDT",
+    "name": "Tether",
+    "market_cap_usd": 186060510509.0,
+    "price_usd": 0.99852,
+    "variacao_pct_24h": 0.00437
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 4,
+    "coin_id": "binancecoin",
+    "symbol": "BNB",
+    "name": "BNB",
+    "market_cap_usd": 75722605620.0,
+    "price_usd": 561.57,
+    "variacao_pct_24h": -0.41972
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 5,
+    "coin_id": "usd-coin",
+    "symbol": "USDC",
+    "name": "USDC",
+    "market_cap_usd": 73686286589.0,
+    "price_usd": 0.999681,
+    "variacao_pct_24h": -0.00335
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 6,
+    "coin_id": "ripple",
+    "symbol": "XRP",
+    "name": "XRP",
+    "market_cap_usd": 65129179315.0,
+    "price_usd": 1.046,
+    "variacao_pct_24h": -2.53971
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 7,
+    "coin_id": "solana",
+    "symbol": "SOL",
+    "name": "Solana",
+    "market_cap_usd": 39620343400.0,
+    "price_usd": 68.23,
+    "variacao_pct_24h": 0.40532
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 8,
+    "coin_id": "tron",
+    "symbol": "TRX",
+    "name": "TRON",
+    "market_cap_usd": 30707161124.0,
+    "price_usd": 0.323744,
+    "variacao_pct_24h": -0.9907
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 9,
+    "coin_id": "figure-heloc",
+    "symbol": "FIGR_HELOC",
+    "name": "Figure Heloc",
+    "market_cap_usd": 19859752741.0,
+    "price_usd": 1.033,
+    "variacao_pct_24h": 0.6041
+  },
+  {
+    "date": "2026-06-25",
+    "rank": 10,
+    "coin_id": "hyperliquid",
+    "symbol": "HYPE",
+    "name": "Hyperliquid",
+    "market_cap_usd": 14491715710.0,
+    "price_usd": 65.14,
+    "variacao_pct_24h": 1.96398
+  }
+]

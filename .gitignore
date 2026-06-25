@@ -1,1 +1,32 @@
 .env
+.env.*
+!.env.example
+
+# Logs e artefatos temporarios
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Terraform state e segredos de infra
+infra/.terraform/
+infra/.terraform.lock.hcl
+infra/terraform.tfstate
+infra/terraform.tfstate.*
+infra/*.tfvars
+infra/*.tfvars.json
+infra/crash.log
+infra/crash.*.log
+
+# Lambda build artifacts
+lambda/*.zip
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.vscode/

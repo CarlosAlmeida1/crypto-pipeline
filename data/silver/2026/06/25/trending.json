@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2026-06-25",
+    "trending_rank": 1,
+    "coin_id": "rain",
+    "name": "Rain",
+    "symbol": "RAIN",
+    "market_cap_rank": 13
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 2,
+    "coin_id": "hyperliquid",
+    "name": "Hyperliquid",
+    "symbol": "HYPE",
+    "market_cap_rank": 10
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 3,
+    "coin_id": "bitcoin",
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "market_cap_rank": 1
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 4,
+    "coin_id": "pudgy-penguins",
+    "name": "Pudgy Penguins",
+    "symbol": "PENGU",
+    "market_cap_rank": 118
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 5,
+    "coin_id": "solana",
+    "name": "Solana",
+    "symbol": "SOL",
+    "market_cap_rank": 7
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 6,
+    "coin_id": "venice-token",
+    "name": "Venice Token",
+    "symbol": "VVV",
+    "market_cap_rank": 88
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 7,
+    "coin_id": "aave",
+    "name": "Aave",
+    "symbol": "AAVE",
+    "market_cap_rank": 57
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 8,
+    "coin_id": "plasma",
+    "name": "Plasma",
+    "symbol": "XPL",
+    "market_cap_rank": 136
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 9,
+    "coin_id": "aerodrome-finance",
+    "name": "Aerodrome Finance",
+    "symbol": "AERO",
+    "market_cap_rank": 106
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 10,
+    "coin_id": "near",
+    "name": "NEAR Protocol",
+    "symbol": "NEAR",
+    "market_cap_rank": 39
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 11,
+    "coin_id": "bittensor",
+    "name": "Bittensor",
+    "symbol": "TAO",
+    "market_cap_rank": 41
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 12,
+    "coin_id": "arcium",
+    "name": "Arcium",
+    "symbol": "ARX",
+    "market_cap_rank": 409
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 13,
+    "coin_id": "sui",
+    "name": "Sui",
+    "symbol": "SUI",
+    "market_cap_rank": 32
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 14,
+    "coin_id": "collector-crypt",
+    "name": "Collector Crypt",
+    "symbol": "CARDS",
+    "market_cap_rank": 344
+  },
+  {
+    "date": "2026-06-25",
+    "trending_rank": 15,
+    "coin_id": "ondo-finance",
+    "name": "Ondo",
+    "symbol": "ONDO",
+    "market_cap_rank": 50
+  }
+]
